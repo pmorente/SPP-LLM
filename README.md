@@ -1,6 +1,8 @@
 # I2R Experiments: Persona Variable Impact Analysis
 
-![Logo](logo.png)
+<div align="center">
+  <img src="logo.png" alt="Logo" width="300"/>
+</div>
 
 This repository contains a series of experiments investigating how different persona variables and variable groups affect Large Language Model (LLM) behavior, both in terms of output responses and internal neural activations.
 
