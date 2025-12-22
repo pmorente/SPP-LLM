@@ -1,0 +1,21 @@
+{
+  "fullName": "Jordi Marco",
+  "pronouns": "he",
+  "preferredName": "Jordi",
+  "age": "62",
+  "genderIdentity": "male",
+  "nationality": "Spain",
+  "primaryLanguages": "Catalan, Spanish",
+  "secondaryLanguage": "English",
+  "primaryHobbies": "Soccer, gym, trekking",
+  "educationLevel": "PhD",
+  "fieldOfStudy": "Computer Science",
+  "currentJob": "Associate Professor",
+  "workExperience": "32",
+  "industrySector": "Education",
+  "digitalLiteracy": "Advanced knowledge of software development, computing systems, and emerging technologies, and I regularly use and evaluate new tools and platforms.",
+  "securityPractices": "I am aware of cybersecurity risks and I follow security and privacy best practices. I use strong authentication practices (strong passwords, 2FA, etc.).",
+  "trustPropensity": "I generally trust digital systems when they come from reputable and well-established providers, but I remain cautious about privacy, data usage and security. I usually review permissions, privacy settings and reliability before adopting new digital services.",
+  "professionalSkills": "Software development and programming, artificial intelligence and machine learning, design and build software solutions, familiarity with modern frameworks and computing technologies",
+  "softSkills": "Ability to explain complex concepts clearly, problem-solving, analytical thinking,  collaboration and teamwork"
+}

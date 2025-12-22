@@ -1,0 +1,23 @@
+{
+  "fullName": "Max Tiessler",
+  "pronouns": "he",
+  "preferredName": "Max",
+  "age": "25",
+  "genderIdentity": "Male",
+  "ethnicity": "European",
+  "nationality": "Spanish",
+  "primaryLanguages": "Spanish",
+  "secondaryLanguage": "English",
+  "primaryHobbies": "Sport",
+  "educationLevel": "Bachelor",
+  "fieldOfStudy": "Computer Science",
+  "currentJob": "Researcher",
+  "roleAuthority": "Assistant",
+  "workExperience": "3",
+  "industrySector": "Research",
+  "digitalLiteracy": "High",
+  "securityPractices": "High",
+  "trustPropensity": "High",
+  "professionalSkills": "Software Engineering & Architecture\n\nMachine Learning & Deep Learning\n\nNatural Language Processing (NLP)\n\nKnowledge Graphs & Semantic Technologies\n\nGenerative AI & Neurosymbolic Reasoning\n\nData Engineering & Pipelines (Kafka, Airflow)\n\nMicroservices, APIs (REST/gRPC), Distributed Systems\n\nResearch & Scientific Tooling",
+  "softSkills": "Communication, leadership, problem-solving, mentoring, project planning."
+}

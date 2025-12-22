@@ -1,0 +1,12 @@
+# Consolidated requirements for all experiments in experiment_2
+
+# Core LLM / transformers stack
+transformers>=4.40.0
+torch>=2.0.0
+accelerate>=0.20.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+
+# Post-analysis / embeddings
+sentence-transformers>=2.2.0
+numpy>=1.21.0

@@ -1,0 +1,302 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "Am the life of the party.",
+    "answer": 2,
+    "answerLabel": "Slightly disagree"
+  },
+  {
+    "questionNumber": 2,
+    "question": "Feel little concern for others.",
+    "answer": 4,
+    "answerLabel": "Slightly agree"
+  },
+  {
+    "questionNumber": 3,
+    "question": "Am always prepared.",
+    "answer": 5,
+    "answerLabel": "Agree"
+  },
+  {
+    "questionNumber": 4,
+    "question": "Get stressed out easily.",
+    "answer": 3,
+    "answerLabel": "Neutral"
+  },
+  {
+    "questionNumber": 5,
+    "question": "Have a rich vocabulary.",
+    "answer": 1,
+    "answerLabel": "Disagree"
+  },
+  {
+    "questionNumber": 6,
+    "question": "Don't talk a lot.",
+    "answer": 1,
+    "answerLabel": "Disagree"
+  },
+  {
+    "questionNumber": 7,
+    "question": "Am interested in people.",
+    "answer": 2,
+    "answerLabel": "Slightly disagree"
+  },
+  {
+    "questionNumber": 8,
+    "question": "Leave my belongings around.",
+    "answer": 3,
+    "answerLabel": "Neutral"
+  },
+  {
+    "questionNumber": 9,
+    "question": "Am relaxed most of the time.",
+    "answer": 4,
+    "answerLabel": "Slightly agree"
+  },
+  {
+    "questionNumber": 10,
+    "question": "Have difficulty understanding abstract ideas.",
+    "answer": 5,
+    "answerLabel": "Agree"
+  },
+  {
+    "questionNumber": 11,
+    "question": "Feel comfortable around people.",
+    "answer": 1,
+    "answerLabel": "Disagree"
+  },
+  {
+    "questionNumber": 12,
+    "question": "Insult people.",
+    "answer": 2,
+    "answerLabel": "Slightly disagree"
+  },
+  {
+    "questionNumber": 13,
+    "question": "Pay attention to details.",
+    "answer": 3,
+    "answerLabel": "Neutral"
+  },
+  {
+    "questionNumber": 14,
+    "question": "Worry about things.",
+    "answer": 4,
+    "answerLabel": "Slightly agree"
+  },
+  {
+    "questionNumber": 15,
+    "question": "Have a vivid imagination.",
+    "answer": 5,
+    "answerLabel": "Agree"
+  },
+  {
+    "questionNumber": 16,
+    "question": "Keep in the background.",
+    "answer": 1,
+    "answerLabel": "Disagree"
+  },
+  {
+    "questionNumber": 17,
+    "question": "Sympathize with others' feelings.",
+    "answer": 2,
+    "answerLabel": "Slightly disagree"
+  },
+  {
+    "questionNumber": 18,
+    "question": "Make a mess of things.",
+    "answer": 3,
+    "answerLabel": "Neutral"
+  },
+  {
+    "questionNumber": 19,
+    "question": "Seldom feel blue.",
+    "answer": 4,
+    "answerLabel": "Slightly agree"
+  },
+  {
+    "questionNumber": 20,
+    "question": "Am not interested in abstract ideas.",
+    "answer": 5,
+    "answerLabel": "Agree"
+  },
+  {
+    "questionNumber": 21,
+    "question": "Start conversations.",
+    "answer": 1,
+    "answerLabel": "Disagree"
+  },
+  {
+    "questionNumber": 22,
+    "question": "Am not interested in other people's problems.",
+    "answer": 2,
+    "answerLabel": "Slightly disagree"
+  },
+  {
+    "questionNumber": 23,
+    "question": "Get chores done right away.",
+    "answer": 3,
+    "answerLabel": "Neutral"
+  },
+  {
+    "questionNumber": 24,
+    "question": "Am easily disturbed.",
+    "answer": 4,
+    "answerLabel": "Slightly agree"
+  },
+  {
+    "questionNumber": 25,
+    "question": "Have excellent ideas.",
+    "answer": 5,
+    "answerLabel": "Agree"
+  },
+  {
+    "questionNumber": 26,
+    "question": "Have little to say.",
+    "answer": 1,
+    "answerLabel": "Disagree"
+  },
+  {
+    "questionNumber": 27,
+    "question": "Have a soft heart.",
+    "answer": 2,
+    "answerLabel": "Slightly disagree"
+  },
+  {
+    "questionNumber": 28,
+    "question": "Often forget to put things back in their proper place.",
+    "answer": 3,
+    "answerLabel": "Neutral"
+  },
+  {
+    "questionNumber": 29,
+    "question": "Get upset easily.",
+    "answer": 4,
+    "answerLabel": "Slightly agree"
+  },
+  {
+    "questionNumber": 30,
+    "question": "Do not have a good imagination.",
+    "answer": 5,
+    "answerLabel": "Agree"
+  },
+  {
+    "questionNumber": 31,
+    "question": "Talk to a lot of different people at parties.",
+    "answer": 1,
+    "answerLabel": "Disagree"
+  },
+  {
+    "questionNumber": 32,
+    "question": "Am not really interested in others.",
+    "answer": 2,
+    "answerLabel": "Slightly disagree"
+  },
+  {
+    "questionNumber": 33,
+    "question": "Like order.",
+    "answer": 3,
+    "answerLabel": "Neutral"
+  },
+  {
+    "questionNumber": 34,
+    "question": "Change my mood a lot.",
+    "answer": 4,
+    "answerLabel": "Slightly agree"
+  },
+  {
+    "questionNumber": 35,
+    "question": "Am quick to understand things.",
+    "answer": 5,
+    "answerLabel": "Agree"
+  },
+  {
+    "questionNumber": 36,
+    "question": "Don't like to draw attention to myself.",
+    "answer": 1,
+    "answerLabel": "Disagree"
+  },
+  {
+    "questionNumber": 37,
+    "question": "Take time out for others.",
+    "answer": 2,
+    "answerLabel": "Slightly disagree"
+  },
+  {
+    "questionNumber": 38,
+    "question": "Shirk my duties.",
+    "answer": 3,
+    "answerLabel": "Neutral"
+  },
+  {
+    "questionNumber": 39,
+    "question": "Have frequent mood swings.",
+    "answer": 4,
+    "answerLabel": "Slightly agree"
+  },
+  {
+    "questionNumber": 40,
+    "question": "Use difficult words.",
+    "answer": 5,
+    "answerLabel": "Agree"
+  },
+  {
+    "questionNumber": 41,
+    "question": "Don't mind being the center of attention.",
+    "answer": 1,
+    "answerLabel": "Disagree"
+  },
+  {
+    "questionNumber": 42,
+    "question": "Feel others' emotions.",
+    "answer": 2,
+    "answerLabel": "Slightly disagree"
+  },
+  {
+    "questionNumber": 43,
+    "question": "Follow a schedule.",
+    "answer": 3,
+    "answerLabel": "Neutral"
+  },
+  {
+    "questionNumber": 44,
+    "question": "Get irritated easily.",
+    "answer": 4,
+    "answerLabel": "Slightly agree"
+  },
+  {
+    "questionNumber": 45,
+    "question": "Spend time reflecting on things.",
+    "answer": 5,
+    "answerLabel": "Agree"
+  },
+  {
+    "questionNumber": 46,
+    "question": "Am quiet around strangers.",
+    "answer": 1,
+    "answerLabel": "Disagree"
+  },
+  {
+    "questionNumber": 47,
+    "question": "Make people feel at ease.",
+    "answer": 2,
+    "answerLabel": "Slightly disagree"
+  },
+  {
+    "questionNumber": 48,
+    "question": "Am exacting in my work.",
+    "answer": 3,
+    "answerLabel": "Neutral"
+  },
+  {
+    "questionNumber": 49,
+    "question": "Often feel blue.",
+    "answer": 4,
+    "answerLabel": "Slightly agree"
+  },
+  {
+    "questionNumber": 50,
+    "question": "Am full of ideas.",
+    "answer": 5,
+    "answerLabel": "Agree"
+  }
+]

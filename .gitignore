@@ -1,0 +1,131 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments (anywhere in the project)
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv
+
+# Virtual environments in experiment folders
+experiment_*/venv/
+experiment_*/env/
+experiment_*/.venv/
+persona_preprocessing/venv/
+persona_preprocessing/env/
+persona_preprocessing/.venv/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+*.env
+
+# Hugging Face cache
+.cache/
+huggingface/
+transformers_cache/
+models/
+
+# Model files and checkpoints (but allow in results/outputs)
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.hdf5
+
+# Embeddings and binary data (but allow in results/outputs)
+embeddings/
+*.emb
+*.npy
+*.npz
+
+# Logs
+*.log
+logs/
+*.out
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.#*
+
+# Data files (uncomment if you don't want to track large data files)
+# *.csv
+# *.json
+# *.xlsx
+# *.xls
+
+# Keep specific important files
+!experiment_*/SPP_example.json
+!experiment_*/input.csv
+!experiment_*/requirements.txt
+!experiment_*/README.md
+
+# IMPORTANT: Explicitly allow results and outputs folders and ALL their contents
+# These negation patterns must come AFTER the ignore patterns above
+!**/results/
+!**/outputs/
+!**/results/**
+!**/outputs/**
+!**/results/**/*
+!**/outputs/**/*
+
+# CPU compiled binaries (experiment_2/post_analyse/CPU/)
+experiment_2/post_analyse/CPU/compare_one_to_one
+experiment_2/post_analyse/CPU/*.o
+experiment_2/post_analyse/CPU/**/*.o
+
+# Keep source files
+!experiment_2/post_analyse/CPU/*.cpp
+!experiment_2/post_analyse/CPU/*.hpp
+!experiment_2/post_analyse/CPU/README.md

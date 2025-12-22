@@ -1,0 +1,21 @@
+{
+  "no_persona": {
+    "mean_similarity": 0.9217400040184851,
+    "std": 0.25396898915284133,
+    "min": 0.0,
+    "max": 1.0,
+    "count": 3318,
+    "variability": 0.0782599959815149,
+    "num_reviews": 1106
+  },
+  "with_persona": {
+    "mean_similarity": 0.8465258647076829,
+    "std": 0.34021166306502565,
+    "min": 0.0,
+    "max": 1.0,
+    "count": 10890,
+    "variability": 0.15347413529231713,
+    "num_reviews": 1089
+  },
+  "difference": 0.07521413931080223
+}

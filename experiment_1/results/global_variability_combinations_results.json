@@ -1,0 +1,125 @@
+{
+  "without_persona": {
+    "mean_similarity": 0.921740004018485,
+    "std": 0.25396898915284133,
+    "min": 0.0,
+    "max": 1.0,
+    "count": 3318,
+    "variability": 0.07825999598151501,
+    "num_reviews": 1106,
+    "group_name": "Without Persona (gpt-4o-1, gpt-4o-2, gpt-4o-3)"
+  },
+  "persona_combinations": [
+    {
+      "mean_similarity": 0.8415167225780218,
+      "std": 0.3460347572878224,
+      "min": 0.0,
+      "max": 1.0,
+      "count": 3279,
+      "variability": 0.1584832774219782,
+      "num_reviews": 1093,
+      "group_name": "Personas: Ann_1, Ann_2, Ann_3"
+    },
+    {
+      "mean_similarity": 0.8500865668601689,
+      "std": 0.3390878313908891,
+      "min": 0.0,
+      "max": 1.0,
+      "count": 3273,
+      "variability": 0.14991343313983108,
+      "num_reviews": 1091,
+      "group_name": "Personas: Ann_1, Ann_2, Ann_4"
+    },
+    {
+      "mean_similarity": 0.8487710745480398,
+      "std": 0.3368107959811574,
+      "min": 0.0,
+      "max": 1.0,
+      "count": 3282,
+      "variability": 0.1512289254519602,
+      "num_reviews": 1094,
+      "group_name": "Personas: Ann_1, Ann_2, Ann_5"
+    },
+    {
+      "mean_similarity": 0.8495773500356453,
+      "std": 0.3392814966040348,
+      "min": 0.0,
+      "max": 1.0,
+      "count": 3273,
+      "variability": 0.15042264996435473,
+      "num_reviews": 1091,
+      "group_name": "Personas: Ann_1, Ann_3, Ann_4"
+    },
+    {
+      "mean_similarity": 0.8426434676434676,
+      "std": 0.3435338592016585,
+      "min": 0.0,
+      "max": 1.0,
+      "count": 3276,
+      "variability": 0.15735653235653235,
+      "num_reviews": 1092,
+      "group_name": "Personas: Ann_1, Ann_3, Ann_5"
+    },
+    {
+      "mean_similarity": 0.8495922528032619,
+      "std": 0.33833380319806083,
+      "min": 0.0,
+      "max": 1.0,
+      "count": 3270,
+      "variability": 0.1504077471967381,
+      "num_reviews": 1090,
+      "group_name": "Personas: Ann_1, Ann_4, Ann_5"
+    },
+    {
+      "mean_similarity": 0.8459225280326199,
+      "std": 0.3409905771112925,
+      "min": 0.0,
+      "max": 1.0,
+      "count": 3270,
+      "variability": 0.1540774719673801,
+      "num_reviews": 1090,
+      "group_name": "Personas: Ann_2, Ann_3, Ann_4"
+    },
+    {
+      "mean_similarity": 0.842075836128901,
+      "std": 0.3416478253484221,
+      "min": 0.0,
+      "max": 1.0,
+      "count": 3279,
+      "variability": 0.15792416387109898,
+      "num_reviews": 1093,
+      "group_name": "Personas: Ann_2, Ann_3, Ann_5"
+    },
+    {
+      "mean_similarity": 0.8485219164118247,
+      "std": 0.3371890006104156,
+      "min": 0.0,
+      "max": 1.0,
+      "count": 3270,
+      "variability": 0.15147808358817527,
+      "num_reviews": 1090,
+      "group_name": "Personas: Ann_2, Ann_4, Ann_5"
+    },
+    {
+      "mean_similarity": 0.8467503315988165,
+      "std": 0.33919105659345034,
+      "min": 0.0,
+      "max": 1.0,
+      "count": 3267,
+      "variability": 0.15324966840118348,
+      "num_reviews": 1089,
+      "group_name": "Personas: Ann_3, Ann_4, Ann_5"
+    }
+  ],
+  "overall_persona_stats": {
+    "mean_variability": 0.15345419533592325,
+    "std_variability": 0.0031748350951265104,
+    "min_variability": 0.14991343313983108,
+    "max_variability": 0.1584832774219782,
+    "mean_similarity": 0.8465458046640768,
+    "std_similarity": 0.0031748350951265104,
+    "mean_std_within_combinations": 0.34021010033272037,
+    "num_combinations": 10
+  },
+  "difference": 0.07519419935440824
+}
