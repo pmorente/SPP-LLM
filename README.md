@@ -14,6 +14,7 @@ The experiments use a comprehensive persona profile system (SPP - Structured Per
 
 ```
 I2R Experiments/
+├── literature-review/         # Taxonomy and related-work mapping (PDF)
 ├── persona_preprocessing/     # Persona preprocessing and Big Five analysis
 ├── experiment_1/             # Persona pattern variability analysis
 ├── experiment_2/             # Variable impact on output responses
@@ -21,6 +22,15 @@ I2R Experiments/
 │   └── post_analyse/         # Post-analysis and embedding comparison
 └── experiment_3/              # Internal layer activation analysis
 ```
+
+---
+
+## 📁 literature-review/
+
+**Purpose**: Literature materials used to construct the persona taxonomy and to relate persona characteristics to prior work.
+
+**Key Files**:
+- `TaxonomyConstruction.pdf`: PDF containing the taxonomy and the mapping between persona characteristics and related work
 
 ---
 
@@ -311,4 +321,4 @@ For questions about specific experiments, refer to the individual README files i
 
 ## 📄 License
 
-[Add your license information here]
+Licensed under the GNU General Public License v3.0 (GPL-3.0). See `LICENSE` (and https://www.gnu.org/licenses/gpl-3.0.html for the full text).
